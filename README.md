@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-- 🔭 Atualmente focado em **[Seu Projeto Atual ou Trabalho]**
+<!-- - 🔭 Atualmente focado em **[Seu Projeto Atual ou Trabalho]**
 - 🌱 No momento estudando **[O que você está aprendendo, ex: Node.js, React, Python]**
 - 👯 Aberto a colaborar em **[Projetos Open Source, Ideias de App, etc.]**
 - 💬 Pergunte-me sobre **[Assuntos que você domina]**
@@ -16,6 +16,7 @@
 - ⚡ Curiosidade: **[Um hobby ou fato divertido sobre você, ex: Sou viciado em café ☕]**
 
 ---
+-->
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
