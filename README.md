@@ -20,7 +20,7 @@
 
 ### 🛠️ Minhas Tecnologias e Ferramentas
 
-> *Dica: Você pode adicionar ou remover essas badges conforme a sua área de atuação.*
+<!-- > *Dica: Você pode adicionar ou remover essas badges conforme a sua área de atuação.*-->
 
 <p align="left">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -34,8 +34,9 @@
 
 ### 📊 Minhas Estatísticas do GitHub
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizAppelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Luiz" />
+<!--<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?-->
+  username=LuizAppelt&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="Estatísticas do Luiz" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=LuizAppelt&theme=tokyonight" alt="Streak do Luiz" />
 </div>
 
